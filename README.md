@@ -134,6 +134,6 @@ centroids = model.centroids
 
 ---
 
-## Author
+## Author : Lefki Meidi 
 
 Project developed to connect **optimization theory** with **algorithmic implementation**.
